@@ -32,11 +32,13 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️018 - Fahrenheit to Celsius 
 -☑️019 - Kilometer to Meters
 -☑️020 - Average of Three Numbers
-
+-☑️021 - Prime Number check
+-☑️022 - Prime Number in Range
+-☑️023 - Factoriyal Using Function
 ## Progress
 
--Completed: 20 / 100
--Remaining: 80 / 100
+-Completed: 23 / 100
+-Remaining: 87 / 100
 
 ## Tecnologies Used
 
