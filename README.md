@@ -35,10 +35,12 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️021 - Prime Number check
 -☑️022 - Prime Number in Range
 -☑️023 - Factoriyal Using Function
+-☑️024 - Largest of Two Number
+-☑️025 - Largest of Three Number
 ## Progress
 
--Completed: 23 / 100
--Remaining: 87 / 100
+-Completed: 25 / 100
+-Remaining: 85 / 100
 
 ## Tecnologies Used
 
@@ -47,4 +49,4 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -Git
 -GitHub
 
-Thank you for visiting my repository.         
+Thank you for visiting my repository.        
