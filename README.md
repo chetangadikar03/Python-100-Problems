@@ -37,10 +37,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️023 - Factoriyal Using Function
 -☑️024 - Largest of Two Number
 -☑️025 - Largest of Three Number
+-☑️026 - Leap Year
+-☑️027 - Check Vowel or Consonant
+-☑️028 - Simple Calculator
+-☑️029 - Tables
+-☑️030 - Sum of First n Natural Number
 ## Progress
 
--Completed: 25 / 100
--Remaining: 85 / 100
+-Completed: 30 / 100
+-Remaining: 70 / 100
 
 ## Tecnologies Used
 
