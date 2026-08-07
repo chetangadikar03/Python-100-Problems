@@ -42,10 +42,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️028 - Simple Calculator
 -☑️029 - Tables
 -☑️030 - Sum of First n Natural Number
+-☑️031 - Count The Number of Digits
+-☑️032 - Sum of Digits
+-☑️033 - Reverse a Number
+-☑️034 - Check Palindrome Number
+-☑️035 - Check Armstrong Number
 ## Progress
 
--Completed: 30 / 100
--Remaining: 70 / 100
+-Completed: 35 / 100
+-Remaining: 65 / 100
 
 ## Tecnologies Used
 
