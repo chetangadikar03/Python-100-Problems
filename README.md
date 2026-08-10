@@ -47,10 +47,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️033 - Reverse a Number
 -☑️034 - Check Palindrome Number
 -☑️035 - Check Armstrong Number
+-☑️036 - Count Vowels in a String
+-☑️037 - Count Consonants in a String
+-☑️038 - Count Vowels and Consonants
+-☑️039 - Check Charater Type
+-☑️040 - ASCII Value
 ## Progress
 
--Completed: 35 / 100
--Remaining: 65 / 100
+-Completed: 40 / 100
+-Remaining: 60 / 100
 
 ## Tecnologies Used
 
