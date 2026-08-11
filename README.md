@@ -52,10 +52,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️038 - Count Vowels and Consonants
 -☑️039 - Check Charater Type
 -☑️040 - ASCII Value
+-☑️041 - Check Palindrome String 
+-☑️042 - Reverse a String
+-☑️043 - Count Word in String
+-☑️044 - Find Leanth in String
+-☑️045 - Convert String to Uppercase
 ## Progress
 
--Completed: 40 / 100
--Remaining: 60 / 100
+-Completed: 45 / 100
+-Remaining: 55 / 100
 
 ## Tecnologies Used
 
