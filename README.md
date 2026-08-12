@@ -57,10 +57,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️043 - Count Word in String
 -☑️044 - Find Leanth in String
 -☑️045 - Convert String to Uppercase
+-☑️046 - Remove Spaces
+-☑️047 - Frequency of Character
+-☑️048 - Duplicate Character
+-☑️049 - Factorial of a Number
+-☑️050 - Check Perfact Number
 ## Progress
 
--Completed: 45 / 100
--Remaining: 55 / 100
+-Completed: 50 / 100
+-Remaining: 50 / 100
 
 ## Tecnologies Used
 
