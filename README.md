@@ -62,6 +62,11 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️048 - Duplicate Character
 -☑️049 - Factorial of a Number
 -☑️050 - Check Perfact Number
+-☑️051 - Find Smallest Digit
+-☑️052 - Check Strong Number
+-☑️053 - Count Positive And Nigative
+-☑️054 - Find GDC of Two Numbers
+-☑️055 - Find LCM of Two Numbers
 ## Progress
 
 -Completed: 50 / 100
