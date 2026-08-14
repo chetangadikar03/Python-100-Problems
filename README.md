@@ -67,10 +67,15 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️053 - Count Positive And Nigative
 -☑️054 - Find GDC of Two Numbers
 -☑️055 - Find LCM of Two Numbers
+-☑️056 - Fibonacci Series
+-☑️057 - Check Prime Number
+-☑️058 - Print Prime Number In Range
+-☑️059 - Find Sum of Even Number in a Range
+-☑️060 - Find sum of Odd Numbers in a Range
 ## Progress
 
--Completed: 50 / 100
--Remaining: 50 / 100
+-Completed: 60 / 100
+-Remaining: 40 / 100
 
 ## Tecnologies Used
 
