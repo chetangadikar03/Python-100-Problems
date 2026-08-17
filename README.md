@@ -72,10 +72,16 @@ This repository contain my daily Python programmin practice. I am solving 100 Py
 -☑️058 - Print Prime Number In Range
 -☑️059 - Find Sum of Even Number in a Range
 -☑️060 - Find sum of Odd Numbers in a Range
+-☑️061 - Factorial Recursion
+-☑️062 - Maximum in List
+-☑️063 - Minimum in List
+-☑️064 - Average of List
+-☑️065 - Count Even Odd in List
+
 ## Progress
 
--Completed: 60 / 100
--Remaining: 40 / 100
+-Completed: 65 / 100
+-Remaining: 35 / 100
 
 ## Tecnologies Used
 
